@@ -1,4 +1,4 @@
-### Hi there! I'm Lucas Pacheco 👋
+<h1>Hi there! I'm Lucas Pacheco 👋</h1>
 
 - 🔭 I’m Full stack developer
 - 🌱 I’m currently learning blockchain
