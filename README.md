@@ -33,8 +33,12 @@ Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato co
   <figure style="text-align:center; flex:1;">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  </figure>
+  <figure style="text-align:center; flex:1;">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   </figure></br>
-  
+
   <h2>Tecnologias  Back-End</h2>
   <figure style="text-align:center; flex:1;">
      <img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
