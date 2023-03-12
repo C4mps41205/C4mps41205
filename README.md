@@ -29,6 +29,10 @@ Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato co
   </figure>
   <figure style="text-align:center; flex:1;">
      <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </figure>
+  <figure style="text-align:center; flex:1;">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </figure></br>
   
   <h2>Tecnologias  Back-End</h2>
@@ -38,7 +42,13 @@ Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato co
   <figure style="text-align:center; flex:1;">
      <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </figure>
+  <figure style="text-align:center; flex:1;">
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </figure>
 </div>
+
+
   
         
   
