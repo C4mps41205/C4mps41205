@@ -5,7 +5,7 @@
 - 📫 How to reach me: 12102784@aluno.cotemig.com.br
 - 😄 Pronouns: he/him
 
-<div align="right">
+<div align="right" top="40px">
   <a href="https://github.com/C4mps41205">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4mps41205&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
