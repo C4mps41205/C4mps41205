@@ -1,14 +1,16 @@
 <h1>Hi there! I'm Lucas Pacheco 👋</h1>
 
-- 🔭 I’m Full stack developer
+<div style="display: flex; justify-content:space-between;">
+  <h2>Front-End technology</h2>
+  <figure style="text-align:center; flex:1;">
+    - 🔭 I’m Full stack developer
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me: 12102784@aluno.cotemig.com.br
 - 😄 Pronouns: he/him
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4mps41205&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</figure>
+ </div>
 
-<div align="right" top="40px">
-  <a href="https://github.com/C4mps41205">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4mps41205&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div style="display: flex; justify-content:space-between;">
   <h2>Front-End technology</h2>
