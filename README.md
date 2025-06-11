@@ -1,61 +1,58 @@
-<h1>Olá! Eu sou Lucas Pacheco 👋</h1>
+<h1>👋 Olá, eu sou Lucas Pacheco</h1>
 
+<p>
+Sou desenvolvedor de software, empreendedor e fundador da <strong>Neuraptor</strong>, uma software house voltada para soluções inovadoras com Inteligência Artificial. Minha paixão por tecnologia vai além do código: busco criar ferramentas que realmente transformam a vida das pessoas e otimizam negócios.
+</p>
 
-<div style="display: flex; justify-content:space-between;">
-  <figure style="text-align:center; flex:1;">
-    Olá! Meu nome é Lucas e eu sou um desenvolvedor de software apaixonado por tecnologia e inovação. Eu criei este perfil no GitHub para compartilhar meus projetos e contribuir para a comunidade de desenvolvimento de software.
+<p>
+Atualmente, estou focado no desenvolvimento de um ecossistema integrado com <strong>ERP + CRM inteligentes</strong> e um <strong>bot com IA no WhatsApp</strong>, projetado para simplificar processos, automatizar rotinas e potencializar a produtividade de empresas.
+</p>
 
-Desde cedo, eu me interessei por programação e comecei a estudar linguagens de programação como Python, C# e JavaScript. Ao longo do tempo, eu aprimorei minhas habilidades em desenvolvimento de software, trabalhando em projetos pessoais e profissionais.
+<p>
+Gosto de trabalhar com tecnologias modernas no back-end e front-end, explorando desde linguagens como <strong>JavaScript, PHP e C#</strong> até a criação de experiências automatizadas com IA generativa.
+</p>
 
-Atualmente, meu foco está em desenvolvimento web, utilizando tecnologias como HTML, CSS, JavaScript e PHP.
+<p>
+Aqui no meu GitHub você vai encontrar projetos que vão desde soluções web completas até ferramentas inteligentes que conectam sistemas com usuários de forma simples e eficiente. Estou sempre aberto a colaborações, ideias e desafios!
+</p>
 
-Eu acredito que a colaboração é a chave para o sucesso em qualquer projeto de software, e por isso, estou sempre procurando oportunidades para colaborar em projetos de código aberto e compartilhar conhecimento com outros desenvolvedores.
+---
 
-Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato comigo se tiver alguma dúvida ou sugestão. Vamos colaborar juntos para tornar o mundo da tecnologia ainda mais incrível!
-  </figure>
-  <figure>
-    <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=C4mps41205&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </figure>
- </div>
+<h2>🚀 Tecnologias que uso no dia a dia</h2>
 
+### 🖥️ Front-End
+<p align="left">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="jQuery" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+</p>
 
-<div style="display: flex; justify-content:space-between;">
-  <h2>Tecnologias Front-End</h2>
-  <figure style="text-align:center; flex:1;">
-    <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </figure>
-  <figure style="text-align:center; flex:1;">
-    <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </figure>
-  <figure style="text-align:center; flex:1;">
-     <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </figure>
-  <figure style="text-align:center; flex:1;">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </figure>
-  <figure style="text-align:center; flex:1;">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  </figure></br>
+### ⚙️ Back-End & Banco de Dados
+<p align="left">
+  <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="C#" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</p>
 
-  <h2>Tecnologias  Back-End</h2>
-  <figure style="text-align:center; flex:1;">
-     <img height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />  
-  </figure>
-  <figure style="text-align:center; flex:1;">
-     <img alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </figure>
-  <figure style="text-align:center; flex:1;">
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </figure>
-</div>
+---
 
+<h2>📊 GitHub Stats</h2>
 
-  
-        
-  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C4mps41205&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
 
-   
-   
+---
+
+<h2>📫 Vamos conversar?</h2>
+
+Se quiser trocar uma ideia sobre tecnologia, projetos com IA, automações ou só bater um papo tech, fique à vontade para me chamar.
+
+---
+
+🔗 **Links importantes**  
+- 💼 Portfólio/Website (https://portfolio-sooty-nine-54.vercel.app/) 
+- 🧠 [Sobre a Neuraptor](#) neuraptor.com.br
+
